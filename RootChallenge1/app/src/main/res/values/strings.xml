@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RootChallange1</string>
+    <string name="this_should_be_easy">This should be easy!\nPress the button to get the Trophy Key.</string>
+    <string name="complete_challenge">Complete Challenge</string>
+    <string name="challange_completed">See easy!!\nWrite your Trophy key down as its needed to unlock the next challenge\nYour Trophy key is: \n\n </string>
+    <string name="r00t_detect">R00T Detection Enabled</string>
+    <string name="ok">Ok</string>
+</resources>
