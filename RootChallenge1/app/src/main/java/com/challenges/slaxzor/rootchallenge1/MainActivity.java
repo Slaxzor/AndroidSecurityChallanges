@@ -28,7 +28,7 @@ public class MainActivity extends AppCompatActivity {
         challengeButton.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                if(!DoBasicIsR00tCheck())
+                if(DoBasicIsR00tCheck())
                 {
                     ansBox.setVisibility(View.VISIBLE);
                     ansBox.append(Util.deobfuscate(binstring));
